@@ -54,7 +54,8 @@ export function Hero() {
           className="mt-10 flex flex-wrap items-center gap-3"
         >
           <a
-            href="/Daniel-Artur-CV.pdf"
+            href="/curriculo_daniel_artur.pdf"
+            download="curriculo_daniel_artur.pdf"
             className="group inline-flex items-center gap-2 px-5 py-3 rounded-lg bg-primary text-primary-foreground font-medium hover:shadow-[var(--shadow-glow)] transition-all"
           >
             <Download className="w-4 h-4" />
